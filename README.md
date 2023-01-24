@@ -3,7 +3,7 @@
 
 - 👀 I’m interested in Python, Web Development and Machine Learning
 
-- 🔭 I’m currently working on <a href="https://claudiomgarcia.github.io/mortis/" target="_blank" rel="noreferrer">Templo Mortis</a>
+- 🔭 I’m currently working on <a href="https://claudiomgarcia.github.io/knights-of-atreia/)" target="_blank" rel="noreferrer">Knights of Atreia</a> and <a href="https://claudiomgarcia.github.io/mortis/" target="_blank" rel="noreferrer">Templo Mortis</a>
 
 - 🌱 I’m currently learning **HTML, CSS, Python and Javascript**
 
